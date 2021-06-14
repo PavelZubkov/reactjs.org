@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[React]]></title><description><![CDATA[A JavaScript library for building user interfaces]]></description><link>https://pavelzubkov.github.io/reactjs.org</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Jun 2021 05:48:27 GMT</lastBuildDate><item><title><![CDATA[The Plan for React 18]]></title><description><![CDATA[<p>The React team is excited to share a few updates:</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[React]]></title><description><![CDATA[A JavaScript library for building user interfaces]]></description><link>https://pavelzubkov.github.io/reactjs.org</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 14 Jun 2021 06:26:53 GMT</lastBuildDate><item><title><![CDATA[The Plan for React 18]]></title><description><![CDATA[<p>The React team is excited to share a few updates:</p>
 <ol>
 <li>We’ve started work on the React 18 release, which will be our next major version.</li>
 <li>We’ve created a Working Group to prepare the community for gradual adoption of new features in React 18.</li>
@@ -1218,7 +1218,7 @@ It requires two props: an <code class="gatsby-code-text">id</code> (string) and 
 <p> To learn more about the <code class="gatsby-code-text">Profiler</code> and the parameters passed to the <code class="gatsby-code-text">onRender</code> callback, check out <a href="/docs/profiler.html">the <code class="gatsby-code-text">Profiler</code> docs</a>.</p>
 <blockquote>
 <p>Note:</p>
-<p>Profiling adds some additional overhead, so <strong>it is disabled in <a href="https://pavelzubkov.github.io/reactjs.org/docs/optimizing-performance.html#use-the-production-build" target="_blank" rel="nofollow noopener noreferrer">the production build</a></strong>.</p>
+<p>Profiling adds some additional overhead, so <strong>it is disabled in <a href="https://reactjs.org/docs/optimizing-performance.html#use-the-production-build" target="_blank" rel="nofollow noopener noreferrer">the production build</a></strong>.</p>
 <p>To opt into production profiling, React provides a special production build with profiling enabled.
 Read more about how to use this build at <a href="https://fb.me/react-profiling" target="_blank" rel="nofollow noopener noreferrer">fb.me/react-profiling</a>.</p>
 </blockquote>

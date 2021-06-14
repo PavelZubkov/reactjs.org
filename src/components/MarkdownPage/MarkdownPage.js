@@ -137,6 +137,18 @@ const MarkdownPage = ({
                     </a>
                   </div>
                 )}
+
+    
+                <h1>Comments</h1>
+                <iframe
+                  src={`https://talks.hyoo.ru/#!/embed/chat=${markdownRemark.fields.path.split('/').slice(-1)[0]}/mol_lights=on`}
+                  allow="fullscreen;accelerometer;autoplay;encrypted-media;gyroscope;picture-in-picture"
+                  style={{
+                    width: '100%',
+                    height: '500px',
+                    border: 'none',
+                  }}
+                ></iframe>
               </div>
             </Flex>
 
